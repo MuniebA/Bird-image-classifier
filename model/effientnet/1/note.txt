@@ -1,0 +1,6 @@
+NUM_CLASSES = 200
+epochs = 30
+batch_size = 16
+
+unfeezed last 40 layer 
+last 40 layer and dense layer have the same learning rate: 0.0001

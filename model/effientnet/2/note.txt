@@ -1,0 +1,9 @@
+
+NUM_CLASSES = 200
+epochs = 20
+batch_size = 32
+
+unfeezed last 40 layer 
+last 40 layer and dense layer have the different learning rate
+
+40 layer have lower learning rate than dense layer
